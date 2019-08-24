@@ -3,3 +3,5 @@ hello world!!
 this will be a commit
 
 new random text
+
+new text from  cloned file
